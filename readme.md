@@ -116,6 +116,12 @@ The project generates:
 * **Risk-Return Profile:** Scatter plot showing expected return vs. volatility.
 * **Individual Asset Returns:** Horizontal bar chart of returns.
 * **Correlation Matrix:** Heatmap of correlations among selected assets.
+  
+## Output Images
+
+<img width="542" height="829" alt="Screenshot 2025-10-23 233039" src="https://github.com/user-attachments/assets/443d1a9f-5108-4547-847f-b22c61171d6f" />
+
+<img width="1362" height="934" alt="image" src="https://github.com/user-attachments/assets/11e53219-d837-464f-a142-a5a326370a4b" />
 
 ---
 
