@@ -13,6 +13,7 @@ This project demonstrates a **quantum-inspired approach to portfolio optimizatio
 * [Configuration](#configuration)
 * [How It Works](#how-it-works)
 * [Visualizations](#visualizations)
+* [Output Images](#Output-Images)
 * [Dependencies](#dependencies)
 * [License](#license)
 
